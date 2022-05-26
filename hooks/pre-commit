@@ -1,0 +1,3 @@
+#!/bin/bash
+
+textlint --fix README.md
